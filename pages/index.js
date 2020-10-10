@@ -36,7 +36,7 @@ export default function Home() {
           rel='noopener noreferrer'
         >
           Managed by Idiot John Hashem, but LICKRD is copyrighted by Jenna
-          Starchuck 2020..and her amazing ass!
+          Starchuck 2020..and her amazing ass!!
         </a>
       </footer>
     </div>
