@@ -13,20 +13,31 @@ export default function Home() {
         <h1 className={styles.title}>Welcome to LickRD 🍦🥃👅</h1>
 
         <p className={styles.description}>
-          I believe in your idea, so I made sure to save this domain for you.
+          I believe in your idea, and that you will figure out the chemisty.. so
+          I made sure to save this domain for you.
+        </p>
+
+        <p className={styles.description}>
+          P.S. I also believe in our chemistry
         </p>
 
         <div className={styles.grid}>
-          <a href='https://nextjs.org/docs' className={styles.card}>
-            <h3>Give this idiot one more chance?</h3>
+          <div className={styles.card}>
+            <h3>Give this idiot one more chdiv nce?</h3>
             <img src='/yes.png' />
-          </a>
+          </div>
 
-          <a href='https://nextjs.org/learn' className={styles.card}>
+          <div className={styles.card}>
             <h3>No Sorry Dude.. </h3>
             <img src='/no.png' />
-          </a>
+          </div>
         </div>
+
+        <p className={styles.description}>
+          P.P.S .. I didnt think this through, you will have to open this
+          website on your laptop and then scan the QR code with your phone... or
+          just call me 😂
+        </p>
       </main>
 
       <footer className={styles.footer}>
